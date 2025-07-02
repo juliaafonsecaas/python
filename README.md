@@ -7,7 +7,7 @@ Aqui você vai encontrar alguns scripts simples e úteis que desenvolvi para pra
 
 | Arquivo              | Descrição                                                                 |
 |----------------------|---------------------------------------------------------------------------|
-| `meus_codigos.py`    | Script completo que calcula média, executa busca binária e gera gráfico. |
+| `busca_binária.py`    | Script completo que calcula média, executa busca binária e gera gráfico. |
 
 ## Como usar
 
