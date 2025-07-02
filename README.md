@@ -8,7 +8,7 @@ Aqui você vai encontrar alguns scripts simples e úteis que desenvolvi para pra
 | Arquivo              | Descrição                                                                 |
 |----------------------|---------------------------------------------------------------------------|
 | `busca_binaria.py`    | Script completo que calcula média, executa busca binária e gera gráfico. |
-| `bcontador.py`    | Contador de vogais em uma string. |
+| `contador.py`    | Contador de vogais em uma string. |
 
 ## Como usar
 
