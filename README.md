@@ -1,4 +1,4 @@
-# Meus Códigos Python
+# PP - Python Projects
 
 Bem-vindo(a) ao meu repositório de códigos em Python!  
 Aqui você vai encontrar alguns scripts simples e úteis que desenvolvi para praticar e mostrar minhas habilidades como desenvolvedora.
