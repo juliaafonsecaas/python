@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # cyber_rpg.py
-# Mini text-based Cyberpunk Hacker RPG - Ju Edition
+# Mini text-based Cyberpunk Hacker RPG 
 # Roda no terminal. Python 3.7+
 
 import random
